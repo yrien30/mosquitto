@@ -15,5 +15,3 @@ if [ $status_code = 401 ]
 then
     exit 75
 fi
-
-
